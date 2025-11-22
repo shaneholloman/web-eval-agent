@@ -1,5 +1,7 @@
 # 🚀 operative.sh web-eval-agent MCP Server
 
+> **⚠️ This project has been sunset. We're working on something new at [withrefresh.com](https://withrefresh.com)**
+
 > *Let the coding agent debug itself, you've got better things to do.*
 
 ![Demo](./demo.gif)
